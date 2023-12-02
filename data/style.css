@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'DM Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DM Sans Regular'), url('DMSans-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'DM Sans Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DM Sans Medium'), url('./fonts/DMSans-Medium') format('woff');
+}
+
+@font-face {
+    font-family: 'DM Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DM Sans Bold'), url('./fonts/DMSans-Bold') format('woff');
+}
+@font-face {
+    font-family: 'DM Serif Display Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DM Serif Display Regular'), url('./fonts/DMSerifDisplay-Regular.woff') format('woff');
+}
+#PLEASE{
+    font-family: 'DM Serif Display Regular';
+    font-weight: 400;
+    position: absolute;
+    top: 24px; left: 24px;
+    font-size: 4vh;
+    line-height: 6vh;
+    color: #000D;
+}
+#PHOTO{
+    position: absolute;
+    top: 100px; left: 100px;  
+    width: 500px;
+    height: 500px;
+}
+
+/*
+https://fonts.google.com/specimen/Architects+Daughter?preview.text=Please%20Post%20it%20now%20Let%27s%20talk&preview.text_type=custom
+font-family: 'Balsamiq Sans', cursive;
+https://fonts.google.com/specimen/Balsamiq+Sans?preview.text=Please%20Post%20it%20now%20Let%27s%20talk&preview.text_type=custom
+font-family: 'Balsamiq Sans', cursive;
+https://fonts.google.com/specimen/Patrick+Hand?preview.text=Please%20Post%20it%20now%20Let%27s%20talk&preview.text_type=custom
+font-family: 'Balsamiq Sans', cursive;  
+*/
